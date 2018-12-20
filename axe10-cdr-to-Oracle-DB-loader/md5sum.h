@@ -1,0 +1,2 @@
+int calcMD5sum();
+
